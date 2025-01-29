@@ -1,1 +1,1 @@
-<h1>Halaman Home</h1>
+<h1>Halaman Kontak</h1>
